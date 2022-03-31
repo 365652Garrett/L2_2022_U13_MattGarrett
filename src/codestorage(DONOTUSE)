@@ -1,0 +1,46 @@
+               <div class="itemMAINBOX"><a href="phone2.html"><img src="../img/phones/zflip.png"height="70%"width="70%" class="imagecenter">
+                 <b>Samsung Galaxy Z Flip</b>
+                 <br>
+                 <b>£899.99</b>
+                 <ul>
+                    <li>Dual 12MP Camera</li>
+                    <li>256Gb</li>
+                    <li>1080x2636p</li>
+                 </ul>
+                </a>
+                </div>
+        
+               <div class="itemMAINBOX"><a href="phone3.html"><img src="../img/phones/zfold.png"height="70%"width="70%" class="imagecenter">
+                 <b>Samsung Galaxy Z Fold</b>
+                 <br>
+                 <b>£1,599.00</b>
+                 <ul>
+                    <li>triple 12MP Camera</li>
+                    <li>Up to 512Gb</li>
+                    <li>1768x2208p</li>
+                 </ul>
+                </a>
+                </div>
+        
+              
+        
+               <div class="itemMAINBOX"><a href="phone6.html"><img src="../img/phones/ip13.png"height="70%"width="70%" class="imagecenter">             <!-- Full page grid -->
+                 <b>IPhone 13</b>
+                 <br>
+                 <b>£749.99</b>
+                 <ul>
+                    <li>Dual 12MP Camera</li>
+                    <li>Up to 512Gb</li>
+                    <li>2340x1080p</li>
+                 </ul>
+                </a>
+                </div>
+
+                <iframe width="1280" height="720" src="https://www.youtube.com/embed/3xti4p2zz8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="894" height="503" src="https://www.youtube.com/embed/KAKoW-0y3Cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="1280" height="720" src="https://www.youtube.com/embed/Zeem5VOiqjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="1280" height="720" src="https://www.youtube.com/embed/hVpkbiQ9E4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="894" height="503" src="https://www.youtube.com/embed/d15MF53bW4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="896" height="504" src="https://www.youtube.com/embed/pRL5YqwZQ4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/4WCpCE3V-No" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="896" height="504" src="https://www.youtube.com/embed/fPvpUJOm8Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

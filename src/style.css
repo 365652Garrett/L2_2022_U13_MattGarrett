@@ -1,0 +1,23 @@
+* {font-family: 'Spartan', sans-serif;}
+
+.itemNAV {background-color: #CBCBCB;}
+.NAVtitle {font-weight: bold; color: #023C49;}
+.itemLEFT {background-color: #4DAAC0;}
+.itemRIGHT {background-color: #4DAAC0;}
+.itemRIGHT>div {background-color: #9BD7E5;}
+.itemFOOTER {background-color: #CBCBCB;}
+li {font-size: 12px; color: #023C49;}
+a {text-decoration: none; color: #023C49; font-weight: bold;}
+.itemMAIN {background-color: #4DAAC0 ;}
+.itemMAIN>div {background-color: #9BD7E5;}
+.bannerMAIN {background-color: #4DAAC0;}
+.itemMAINBOX {background-color: #4DAAC0;}
+.imageitem {background-color: #9BD7E5;}
+.tableitem {background-color: #9BD7E5;}
+.videoitem {background-color: #9BD7E5;}
+.descriptionitem {background-color: #9BD7E5;}
+p {color: #023C49;}
+b {color: #023C49;}
+th, td {color: #023C49; }
+th {font-weight: 900;}
+td {font-weight: 100;}
