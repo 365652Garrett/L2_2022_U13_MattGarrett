@@ -180,7 +180,7 @@ The table shows how the navigation elements are linked.  EXAMPLE: If you want to
 | https://www.gsmarena.com/                                                                                        | All Phone Specs             |
 | https://www.phonearena.com/                                                                                      | All Phone Descriptions      |
 
-# Development Revision 1.
+# Development Revision 1. aaa
 When creating the webpage in visual code, some measurements had to be changed due to incorrect positioning or incorrect sizing. Changing specific sizes allowed the website layout to function correctly without certain elements being out of bounds.
 
 # Feedback 1.
