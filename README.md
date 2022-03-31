@@ -238,5 +238,6 @@ Phone sites look really good, laid out really well and organised.
 + Auto resize content: Currently the page is viewed at a fixed 1920x1080p resolution meaning that any screen smaller than the size will not be able to display all the content on screen (but can still scroll to view hidden content). This is a known design flaw and will hopefully be corrected/improved on in further builds.
 + Improve the "About Us": There isn't much info displayed here right now, but this will be fleshed out at a later date.
 + Improved folder structure: Currently the organisation of folders are not very organised if at all. This will  be done at a later date as it would require me to change all paths of elements in the webpages. If a page has been moved to a different location (a different folder) it causes all elements and links to break.
-# Operation13
-# L2_2022_U13_MattGarrett
+
+
+# Unit13-BluTek-Phone-Shop
