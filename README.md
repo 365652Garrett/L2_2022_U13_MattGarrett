@@ -119,7 +119,7 @@ The standard weight (300) will be used for general text such as info, whereas he
 I will be using design 2 as it has a more familar appearance with certain letters such as the "a" having a more hand written appearance, while still maintaining a more modern and clear format.
 
 ## Logo design.
-<img src="img/readme/logofinal.png" alt="alt text" height="50%" width="50%"/>
+<img src="img/readme/logo final.png" alt="alt text" height="50%" width="50%"/>
 
 ### Reasons for design choice.
 The logo was to be based around technology meaning a power logo you would find on computers with a lightning bolt through the middle to show power, along with the name of the compnay inside the ring. The colour follows the design scheme of the website. 
