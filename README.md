@@ -153,33 +153,33 @@ The table shows how the navigation elements are linked.  EXAMPLE: If you want to
 ## Sources.
 | Source                                                                                                           | Name                        |
 |------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| https://www.armstrongsgroup.com/contact/facebook-logo-black-and-white-png/                                       | Facebook Logo               |
-| https://www.flaticon.com/free-icon/twitter-logo-on-black-background_60580                                        | Twitter Logo                |
-| https://icon-library.com/images/checkout-icon/checkout-icon-13.jpg                                               | Checkout image              |
-| https://img.us.news.samsung.com/us/wp-content/uploads/2022/02/09102459/Galaxy-S22-Series-2-scaled.jpg            | Carousel Image 1            |
-| https://www.gizmochina.com/wp-content/uploads/2018/02/p20-pro-1.jpg                                              | Carousel Image 2            |
-| https://www.myfixguide.com/wp-content/uploads/2021/06/nokia-c20-plus-2.jpg                                       | Carousel Image 3            |
-| https://media.wired.com/photos/6008b7cd103a85a519187c3e/master/pass/Gear-galaxys21_plus_phantom_silver_front.jpg | Samsung Galaxy S21          |
-| https://m.media-amazon.com/images/I/61RhKubN4HL._AC_SL1000_.jpg                                                  | Samsung Galaxy Z Flip       |
-| https://www.samsung.com/us/business/smartphones/galaxy-z-fold3-5g/buy/                                           | Samsung Galaxy Z Fold       |
-| https://www.backmarket.co.uk/second-hand-iphone-11-128-gb-black-unlocked/290063.html                             | iPhone 11                   |
-| https://www.apple.com/uk/shop/buy-iphone/iphone-12/6.1-inch-display-64gb-purple                                  | iPhone 12                   |
-| https://www.apple.com/uk/shop/buy-iphone/iphone-13-pro/6.1-inch-display-1tb-silver                               | iPhone 13 Pro               |
-| https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/nova9/specs/list-blue.png          | Huawei Nova 9               |
-| https://www.techinn.com/f/13790/137905231/nokia-8.3-5g-8gb-128gb-6.8-smartphone.jpg                              | Nokia 8.3                   |
-| https://www.notebookcheck.net/fileadmin/Notebooks/Motorola/Moto_G100/4_zu_3_moto_g100.jpg                        | Motorola G100               |
-| https://www.youtube.com/embed/3xti4p2zz8k                                                                        | Samsung Galaxy S21 Video    |
-| https://www.youtube.com/embed/KAKoW-0y3Cw                                                                        | Samsung Galaxy Z Flip Video |
-| https://www.youtube.com/embed/Zeem5VOiqjM                                                                        | Samsung Galaxy Z Fold Video |
-| https://www.youtube.com/embed/hVpkbiQ9E4c                                                                        | iPhone 11 Video             |
-| https://www.youtube.com/embed/X1b3C2081-Q                                                                        | iPhone 12 Video             |
-| https://www.youtube.com/embed/d15MF53bW4I                                                                        | iPhone 13 Pro Video         |
-| https://www.youtube.com/embed/pRL5YqwZQ4U                                                                        | Huawei Nova 9 Video         |
-| https://www.youtube.com/embed/4WCpCE3V-No                                                                        | Nokia 8.3 Video             |
-| https://www.youtube.com/embed/fPvpUJOm8Xk                                                                        | Motorola G100 Video         |
-| https://www.gsmarena.com/                                                                                        | All Phone Specs             |
-| https://www.phonearena.com/                                                                                      | All Phone Descriptions      |
-
+| https://www.armstrongsgroup.com/contact/facebook-logo-black-and-white-png/                                       | Facebook Logo (footer/contact us)               |
+| https://www.flaticon.com/free-icon/twitter-logo-on-black-background_60580                                        | Twitter Logo (footer/contact us)               |
+| https://icon-library.com/images/checkout-icon/checkout-icon-13.jpg                                               | Checkout image (phones pages)             |
+| https://img.us.news.samsung.com/us/wp-content/uploads/2022/02/09102459/Galaxy-S22-Series-2-scaled.jpg            | Carousel Image 1 (home)           |
+| https://www.gizmochina.com/wp-content/uploads/2018/02/p20-pro-1.jpg                                              | Carousel Image 2 (home)          |
+| https://www.myfixguide.com/wp-content/uploads/2021/06/nokia-c20-plus-2.jpg                                       | Carousel Image 3 (home)          |
+| https://media.wired.com/photos/6008b7cd103a85a519187c3e/master/pass/Gear-galaxys21_plus_phantom_silver_front.jpg | Samsung Galaxy S21 (home/phone page/all phones)         |
+| https://m.media-amazon.com/images/I/61RhKubN4HL._AC_SL1000_.jpg                                                  | Samsung Galaxy Z Flip (home/phone page/all phones)      |
+| https://www.samsung.com/us/business/smartphones/galaxy-z-fold3-5g/buy/                                           | Samsung Galaxy Z Fold (home/phone page/all phones)      |
+| https://www.backmarket.co.uk/second-hand-iphone-11-128-gb-black-unlocked/290063.html                             | iPhone 11 (home/phone page/all phones)                  |
+| https://www.apple.com/uk/shop/buy-iphone/iphone-12/6.1-inch-display-64gb-purple                                  | iPhone 12 (home/phone page/all phones)                  |
+| https://www.apple.com/uk/shop/buy-iphone/iphone-13-pro/6.1-inch-display-1tb-silver                               | iPhone 13 Pro (home/phone page/all phones)              |
+| https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/nova9/specs/list-blue.png          | Huawei Nova 9 (phone page/all phones)              |
+| https://www.techinn.com/f/13790/137905231/nokia-8.3-5g-8gb-128gb-6.8-smartphone.jpg                              | Nokia 8.3 (phone page/all phones)                  |
+| https://www.notebookcheck.net/fileadmin/Notebooks/Motorola/Moto_G100/4_zu_3_moto_g100.jpg                        | Motorola G100 (phone page/all phones)              |
+| https://www.youtube.com/embed/3xti4p2zz8k                                                                        | Samsung Galaxy S21 Video (phone page)   |
+| https://www.youtube.com/embed/KAKoW-0y3Cw                                                                        | Samsung Galaxy Z Flip Video (phone page)|
+| https://www.youtube.com/embed/Zeem5VOiqjM                                                                        | Samsung Galaxy Z Fold Video (phone page)|
+| https://www.youtube.com/embed/hVpkbiQ9E4c                                                                        | iPhone 11 Video (phone page)            |
+| https://www.youtube.com/embed/X1b3C2081-Q                                                                        | iPhone 12 Video (phone page)            |
+| https://www.youtube.com/embed/d15MF53bW4I                                                                        | iPhone 13 Pro Video (phone page)        |
+| https://www.youtube.com/embed/pRL5YqwZQ4U                                                                        | Huawei Nova 9 Video (phone page)        |
+| https://www.youtube.com/embed/4WCpCE3V-No                                                                        | Nokia 8.3 Video (phone page)            |
+| https://www.youtube.com/embed/fPvpUJOm8Xk                                                                        | Motorola G100 Video (phone page)        |
+| https://www.gsmarena.com/                                                                                        | All Phone Specs (phone page)            |
+| https://www.phonearena.com/                                                                                      | All Phone Descriptions (phone page)     |
+| Logo                                                                                                             | BluTek Phone Shop Logo (used on all pages)|
 # Development Revision 1.
 When creating the webpage in visual code, some measurements had to be changed due to incorrect positioning or incorrect sizing. Changing specific sizes allowed the website layout to function correctly without certain elements being out of bounds.
 
